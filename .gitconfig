@@ -1,0 +1,6 @@
+[zotero "betterbibtex"]
+	push = true
+[commit]
+	gpgSign = false
+[push]
+	default = matching
